@@ -74,6 +74,6 @@ Anda bisa membuka di browser ini :
 - [![miced](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/id-id/edge)
 ## License 
 
-_JefriWahyudi_
+_Jefriart_
 
 **Termikasih Sudah Membaca Saya**
